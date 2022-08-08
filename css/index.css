@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Ubuntu:wght@500&display=swap');
+body{
+    background-color: rgb(123, 123, 236);
+}
+#Parrafo1{
+    color: rgb(223,18,206);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.parrafo2{
+    color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    background-color: blueviolet;
+}
+h1{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+ul{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+}
+ul li{
+    margin: 10px 20px;
+}
